@@ -2,8 +2,4 @@
 
 API desenvolvida com laravel o framework do php, esta API consiste em armazenar e resgatar dados dos banco mysql para marcas e modelos de carros, uma API simples para aprendizado.
 
-<<<<<<< HEAD
 Usando JWT para autorização das requisições.
-=======
-<p>API desenvolvida com laravel o framework do php, esta API consiste em armazenar e resgatar dados dos banco mysql para marcas e modelos de carros, uma API simples para aprendizado</p>
->>>>>>> fa044a39c325732f098d9598ee8132e790fda872
