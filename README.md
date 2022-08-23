@@ -6,3 +6,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+<p>API desenvolvida com laravel o framework do php, esta API consiste em armazenar e resgatar dados dos banco mysql para marcas e modelos de carros, uma API simples para aprendizado</p>
