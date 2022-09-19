@@ -19,7 +19,6 @@ class CreateMarcasTable extends Migration
             $table->string('imagem', 100)->comment('Logo da marca');
             $table->timestamps();
         });
-    
     }
 
     /**
